@@ -1,3 +1,4 @@
+```c++
 /**
  * @file board.h
  * @brief Hier wird jede Methode und jede Member-Variable von der Klasse Board deklariert.
